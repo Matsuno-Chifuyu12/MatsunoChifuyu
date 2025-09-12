@@ -11,7 +11,7 @@
 </div>
 
   <!-- Compteur de vues -->
-  <img src="https://komarev.com/ghpvc/?username=Matsuno-Chifuyu12&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MatsunoChifuyu&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
