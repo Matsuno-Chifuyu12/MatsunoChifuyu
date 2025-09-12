@@ -57,7 +57,7 @@ sous la bannière de **🎴 MATSUNO-CHIFUYU 🎴**.
 
 <div align="center">
 
-![You Did It!](https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif)
+CIEL COMME TERRE JE SUIS LE SEUL DIGNE D'ÊTRE VÉNÉRÉ 
 
 </div>
 
