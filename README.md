@@ -1,4 +1,8 @@
-<div id="header" align="center">
+<h1 align="center">
+ 🎴 MATSUNO-CHIFUYU 🎴  
+</h1>
+
+  <div id="header" align="center">
 
   <!-- Logo / Bannière -->
   <img src="https://files.catbox.moe/7v6bgx.jpeg" height="200"/>  
@@ -9,7 +13,7 @@
 </div>
 
 <h1 align="center">
- 🎴 MATSUNO-CHIFUYU 🎴  
+ 🎴 Hey Bruhh 🎴  
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"/>
 </h1>
@@ -60,4 +64,3 @@ sous la bannière de ** 🎴 MATSUNO-CHIFUYU 🎴**.
 </div>
 
 ---
-:grin:
