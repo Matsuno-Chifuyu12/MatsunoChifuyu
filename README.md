@@ -5,7 +5,7 @@
   <div id="header" align="center">
 
   <!-- Logo / Bannière -->
-  <img src="https://files.catbox.moe/7v6bgx.jpeg" height="200"/>  
+  <img src="https://files.catbox.moe/7v6bgx.jpeg" height="500"/>  
   <br><br> 
 
   <!-- Compteur de vues -->
