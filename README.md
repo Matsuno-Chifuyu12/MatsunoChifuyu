@@ -5,8 +5,10 @@
   <div id="header" align="center">
 
   <!-- Logo / Bannière -->
-  <img src="https://files.catbox.moe/7v6bgx.jpeg" height="500"/>  
-  <br><br> 
+  <img src="https://files.catbox.moe/7v6bgx.jpeg" width="800" height="500"/>  
+  <br><br>
+
+</div>
 
   <!-- Compteur de vues -->
   <img src="https://komarev.com/ghpvc/?username=Matsuno-Chifuyu12 &style=flat-square&color=blue" alt=""/>
