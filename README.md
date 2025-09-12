@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
  🎴 MATSUNO-CHIFUYU 🎴  
-</h1>
+</div>
 
   <div id="header" align="center">
 
@@ -55,10 +55,10 @@ sous la bannière de **🎴 MATSUNO-CHIFUYU 🎴**.
 
 ---
 
-<h1 align="center">
+<div align="center">
 
 CIEL COMME TERRE JE SUIS LE SEUL DIGNE D'ÊTRE VÉNÉRÉ 
 
-</h1>
+</div>
 
 ---
