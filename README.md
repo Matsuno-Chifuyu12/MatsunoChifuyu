@@ -44,9 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-
-  <!-- Database -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/whatsapp/whatsapp-original-wordmark.svg" title="WhatsApp"  alt="WhatsApp" width="50" height="50"/>&nbsp;
 </div>
 
 ---
@@ -54,7 +51,7 @@
 ### 🎯 Objectif  
 
 Construire des **outils numériques innovants** et progresser comme développeur,  
-sous la bannière de ** 🎴 MATSUNO-CHIFUYU 🎴**.  
+sous la bannière de **🎴 MATSUNO-CHIFUYU 🎴**.  
 
 ---
 
