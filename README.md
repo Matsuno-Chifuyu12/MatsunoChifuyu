@@ -28,7 +28,7 @@
 
 ### ✦ Qui suis-je ?  
 
-🎴 Étudiant **camerounais** 🇨🇲  **Autodidacte passionné d’informatique** et de programmation. 
+🎴 Étudiant **camerounais Autodidacte passionné d’informatique** et **de programmation**. 
 
 - 💻 J’explore le développement **web et bots**  
 - 🍃 Je travaille en autodidacte sur des **projets personnels** (Node.js, plugins, bases de données)    
