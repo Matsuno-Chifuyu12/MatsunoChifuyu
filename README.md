@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsunoChifuyu&show_icons=true&theme=radical)
+<img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsunoChifuyu&show_icons=true&theme=radical)>
 </div>
 
 <h1 align="center">
