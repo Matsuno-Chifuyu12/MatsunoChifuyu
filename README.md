@@ -10,6 +10,8 @@
 
 </div>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsunoChifuyu&show_icons=true&theme=radical
+ 
   <!-- Compteur de vues -->
   <img src="https://komarev.com/ghpvc/?username=MatsunoChifuyu&style=flat-square&color=blue" alt=""/>
 </div>
@@ -48,7 +50,7 @@
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsunoChifuyu&show_icons=true&theme=radical)
+)
 
 ### 🎯 Objectif  
 
@@ -56,7 +58,6 @@ Construire des **outils numériques innovants** et progresser comme développeur
 sous la bannière de **🎴 MATSUNO-CHIFUYU 🎴**.  
 
 ---
-
 <h1 align="center">
 
 CIEL COMME TERRE JE SUIS LE SEUL DIGNE D'ÊTRE VÉNÉRÉ 
