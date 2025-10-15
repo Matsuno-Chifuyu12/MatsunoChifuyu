@@ -11,10 +11,10 @@
 </div>
  
   <!-- Compteur de vues -->
-  <img src="https://komarev.com/ghpvc/?username=MatsunoChifuyu&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MatsunoChifuyu&style=flat-square&color=blue" alt=""/>  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsunoChifuyu&show_icons=true&theme=radical)
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsunoChifuyu&show_icons=true&theme=radical)
+
 <h1 align="center">
  🎴 Hey Bruhh  
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
